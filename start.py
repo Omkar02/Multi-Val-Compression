@@ -37,5 +37,5 @@ def processing(pass_th_arr):
 	# for ke, va in d_val.items():
 	# 	print(ke,' ---> ',va)
 	return d_val
-
-# print(processing(Lets_dig_in('EDW_SCVER.POR_DLY_AGG.MVC')))
+# this gona run
+print(processing(Lets_dig_in('EDW_SCVER.POR_DLY_AGG.MVC')))
